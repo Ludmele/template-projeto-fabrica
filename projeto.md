@@ -92,9 +92,9 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 |:---|:---|:---|
-|RNF-001 |login opcional|Descreva aqui as informações sobre o requisito |
-|RNF-002 |Cookies |Descreva aqui as informações sobre o segundo requisito |
-|RNF-002 | Direitos autorais; Lei Geral de Proteção de Dados (LGPD)|Descreva aqui as informações sobre o segundo requisito |
+|RNF-001 |login opcional|Não é obrigatório o usuário realizar login |
+|RNF-002 |Cookies |Mensagem de permissão para o armazenamento dos seus dados no site |
+|RNF-002 | Direitos autorais; Lei Geral de Proteção de Dados (LGPD)|Não se responsabiliza  |
 
 
 [ [INÍCIO](#fibonacci-management-system) ]
