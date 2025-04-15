@@ -8,12 +8,12 @@
 |NOME|CARGO|E-MAIL|
 |:---|:---|:---|
 |Ana Clara Bertando Gonçalves|Programador|anaclarabertando@gmail.com|
-|Anthony Pohlmann Rodrigues|Gerente de Projeto|wagner.ferreira@ifro.edu.br|
-|Wagner da Silva Ferreira Filho|Gerente de Projeto|wagner.ferreira@ifro.edu.br|
-|Wagner da Silva Ferreira Filho|Gerente de Projeto|wagner.ferreira@ifro.edu.br|
-|Wagner da Silva Ferreira Filho|Gerente de Projeto|wagner.ferreira@ifro.edu.br|
-|Wagner da Silva Ferreira Filho|Gerente de Projeto|wagner.ferreira@ifro.edu.br|
-|Wagner da Silva Ferreira Filho|Gerente de Projeto|wagner.ferreira@ifro.edu.br|
+|Anthony Pohlmann Rodrigues|Líder de planejamento|pohlmann.anthony@gmail.com|
+|Ingrid Victória de Souza Silva|Programador|ingrid.aluna2024@gmail|
+|Kamyly Lopes Gouveia|Programador|kamylylopes141@gmail.com|
+|Ludmele Figueiredo da Silva|Programador|ludmelefigueiredo@gmail.com|
+|Pamela Alves|Programador|alves.pamela@estudante.ifro.edu.br|
+=======
 
 
 # Sumário
@@ -38,7 +38,7 @@
 | ITEM | DESCRIÇÃO|
 |:---|:---|
 | NOME DO PROJETO | Fibonacci Management System |
-| GERENTE DO PROJETO | Wagner Ferreira |
+| GERENTE DO PROJETO |  |
 | PRINCIPAL OBJETIVO | Auxiliar o sistema de ensino através de ferramentas síncronas e assíncronas que serão usadas por funcionários e alunos da instituição de ensino. |
 | BENEFÍCIOS ESPERADOS |* Melhor acompanhamento pedagógico;<br/>* Redução da evasão escolar;<br/>* Aumento do número de matrículas;<br/>* Redução da inadimplência escolar;<br/>* Automatização dos processos financeiross|
 | INÍCIO E TÉRMINO PREVISTOS | 14/03/2023 - 07/12/2023 |
