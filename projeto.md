@@ -14,7 +14,6 @@
 |Wagner da Silva Ferreira Filho|Gerente de Projeto|wagner.ferreira@ifro.edu.br|
 |Wagner da Silva Ferreira Filho|Gerente de Projeto|wagner.ferreira@ifro.edu.br|
 |Wagner da Silva Ferreira Filho|Gerente de Projeto|wagner.ferreira@ifro.edu.br|
-oiii
 
 
 # Sumário
@@ -83,8 +82,10 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 :---|:---|:---|
-|RF-001 |Nome do Requisito | Descreva aqui as informações sobre o requisito |
-|RF-002 | Nome do Requisito | Descreva aqui as informações sobre o segundo requisito |
+|RF-001 |Menu principal | Descreva aqui as informações sobre o requisito |
+|RNF-002 |Comunidade |Descreva aqui as informações sobre o segundo requisito |
+|RNF-002 |Produto |Descreva aqui as informações sobre o segundo requisito |
+|RNF-002 |Blog |Descreva aqui as informações sobre o segundo requisito |
 
 
 ## Requisitos Não Funcionais
@@ -92,8 +93,9 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 |:---|:---|:---|
-|RNF-001 |Nome do Requisito |Descreva aqui as informações sobre o requisito |
-|RNF-002 |Nome do Requisito |Descreva aqui as informações sobre o segundo requisito |
+|RNF-001 |login opcional|Descreva aqui as informações sobre o requisito |
+|RNF-002 |Cookies |Descreva aqui as informações sobre o segundo requisito |
+|RNF-002 | Direitos autorais; Lei Geral de Proteção de Dados (LGPD)|Descreva aqui as informações sobre o segundo requisito |
 
 
 [ [INÍCIO](#fibonacci-management-system) ]
@@ -101,7 +103,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 # Prototipagem
 
-[Protótipo criado no FIGMA em 2022 por estudantes](https://www.figma.com/file/iNC7wyX9zP7Kmn3BhiCFGf/Fals6Hood-(Prot%C3%B3tipo-criado-por-estudantes-em-2022)?node-id=0%3A1&t=B16hgeZP3MSURCCa-1)
+[Protótipo criado no FIGMA em 2025 por estudantes](https://www.figma.com/file/iNC7wyX9zP7Kmn3BhiCFGf/Fals6Hood-(Prot%C3%B3tipo-criado-por-estudantes-em-2022)?node-id=0%3A1&t=B16hgeZP3MSURCCa-1)
 
 ![Imagem do Protótipo](/img/home.png)
 
