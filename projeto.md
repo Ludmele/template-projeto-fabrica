@@ -13,7 +13,6 @@
 |Kamyly Lopes Gouveia|Programador|kamylylopes141@gmail.com|
 |Ludmele Figueiredo da Silva|Programador|ludmelefigueiredo@gmail.com|
 |Pamela Alves|Programador|alves.pamela@estudante.ifro.edu.br|
-=======
 
 
 # Sumário
@@ -21,7 +20,7 @@
 * [RESUMO DO PROJETO](#resumo-do-projeto)
 * [INTRODUÇÃO](#introdução)
   * [PROPÓSITO DESTE DOCUMENTO](#propósito-deste-documento)
-* [DESCRIÇÃO GERAL](#descrição-geral)
+* [DESCRIÇÃO GERAL](Em nosso site, -----, será apresentado instruções passo a passo de receitas de diversas culturas, para que, os usuários possam explorar novas experiências culinárias e interagir em uma comunidade ativa — compartilhamento das ideias)
   * [USUÁRIOS DO SISTEMA](#usuários-do-sistema)
   * [ABRANGÊNCIA E SISTEMAS SIMILARES](#abrangência-e-sistemas-similares)
   * [SUPOSIÇÕES E DEPENDÊNCIAS](#suposições-e-dependências)
