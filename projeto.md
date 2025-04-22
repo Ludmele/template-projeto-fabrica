@@ -82,9 +82,16 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 :---|:---|:---|
 |RF-001 |Menu principal | Descreva aqui as informações sobre o requisito |
-|RNF-002 |Comunidade |Descreva aqui as informações sobre o segundo requisito |
-|RNF-002 |Produto |Descreva aqui as informações sobre o segundo requisito |
-|RNF-002 |Blog |Descreva aqui as informações sobre o segundo requisito |
+|RNF-002 |Criar, administrar e excluir comunidade |************ |
+|RNF-003 |Publicar informações e conteúdo sobre receitas — apresentar diversas culturas |**********|
+|RNF-004 |Cadastrar o usuário na plataforma e identificar-se (login) na plataforma|****** |
+|RNF-005 |Participar das comunidades |*************************** |
+|RNF-006 |Avaliação e comentários sobre as receitas |***************|
+|RNF-007 |Participar das comunidades |******** |
+|RNF-008 |Remover o usuário caso haja uma violação da comunidade — expulsão |******* |
+|RNF-009 |Buscar conteúdo na plataforma|******** |
+|RNF-010 |Acessibilidade|******** |
+
 
 
 ## Requisitos Não Funcionais
@@ -92,10 +99,10 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 |:---|:---|:---|
-|RNF-001 |login opcional|Não é obrigatório o usuário realizar login |
-|RNF-002 |Cookies |Mensagem de permissão para o armazenamento dos seus dados no site |
-|RNF-002 | Direitos autorais; Lei Geral de Proteção de Dados (LGPD)|Não se responsabiliza  |
-
+|RNF-001 |Desempenho e segurança|Não é obrigatório o usuário realizar login |
+|RNF-002 |Portabilidade |Mensagem de permissão para o armazenamento dos seus dados no site |
+|RNF-002 | Navegabilidade |Não se responsabiliza  |
+|RNF-002 | Interoperabilidade |Não se responsabiliza  |
 
 [ [INÍCIO](#fibonacci-management-system) ]
 
