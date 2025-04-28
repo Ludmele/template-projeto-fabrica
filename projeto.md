@@ -9,7 +9,7 @@
 |:---|:---|:---|
 |Ana Clara Bertando Gonçalves|Programador|anaclarabertando@gmail.com|
 |Anthony Pohlmann Rodrigues|Líder de planejamento|pohlmann.anthony@gmail.com|
-|Ingrid Victória de Souza Silva|Programador|ingrid.aluna2024@gmail|
+|Ingrid Victória de Souza Silva|Programador|ingrid.aluna2024@gmail.com|
 |Kamyly Lopes Gouveia|Programador|kamylylopes141@gmail.com|
 |Ludmele Figueiredo da Silva|Programador|ludmelefigueiredo@gmail.com|
 |Pamela Alves|Programador|alves.pamela@estudante.ifro.edu.br|
@@ -81,18 +81,14 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 :---|:---|:---|
-|RF-001 |Menu principal | Descreva aqui as informações sobre o requisito |
-|RNF-002 |Criar, administrar e excluir comunidade |************ |
-|RNF-003 |Publicar informações e conteúdo sobre receitas — apresentar diversas culturas |**********|
-|RNF-004 |Cadastrar o usuário na plataforma e identificar-se (login) na plataforma|****** |
-|RNF-005 |Participar das comunidades |*************************** |
-|RNF-006 |Avaliação e comentários sobre as receitas |***************|
-|RNF-007 |Participar das comunidades |******** |
-|RNF-008 |Remover o usuário caso haja uma violação da comunidade — expulsão |******* |
-|RNF-009 |Buscar conteúdo na plataforma|******** |
-|RNF-010 |Acessibilidade|******** |
 
-
+|RNF-001 |Cadastrar comunidade |Para compartilhar dicas e ideias sobre receitas culinárias. Obs.: todos os users (usuários) poderam criar a sua própria comunidade|
+|RNF-002 |Cadastrar o usuário na plataforma|Tem como principal funcionalidade registrar os usuários no site para que, possam interagir na comunidade |
+|RF-003 | Cadastrar ingredientes | ******************** |
+|RF-003 |Publicar receitas | É permitido a publicação de receitas na aba comunidade no qual, os usuários terão acesso ao fazer o cadastro.|
+|RNF-004 |Cadastrar categoria| Sistema de organização que agrupa diferentes tipos de preparações culinárias com base em características comuns. |
+|RNF-005 |Avaliar e compartilhar receitas |O sistema de avaliação (comentários e classifição com estrelas) é essecial pois, permite que os usuários tenham uma base sobre o alimento (sabor). E trocar experiências culinárias com outras pessoas.|
+|RF-003 | Filtro | *************** |
 
 ## Requisitos Não Funcionais
 A tabela a seguir contém a relação com os Requisitos Não Funcionais identificados, contendo identificador, nome, descrição e prioridade:
@@ -103,6 +99,8 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 |RNF-002 |Portabilidade |Mensagem de permissão para o armazenamento dos seus dados no site |
 |RNF-002 | Navegabilidade |Não se responsabiliza  |
 |RNF-002 | Interoperabilidade |Não se responsabiliza  |
+|RNF-006 |Navegação na página (Pesquisa)| Facilidade para encontrar a receita desejada pelo usuário. |
+|RNF-007 |Acessibilidade|Voltado ao grupo de pessoas portadoras de deficiência auditiva e visual|
 
 [ [INÍCIO](#fibonacci-management-system) ]
 
