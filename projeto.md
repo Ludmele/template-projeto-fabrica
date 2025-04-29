@@ -34,15 +34,15 @@
 
 
 # RESUMO DO PROJETO
-| ITEM | DESCRIÇÃO|
+| ITEM | Um site de receitas interativo e prático. Os usuários poderão compartilhar receitas de diversas culturas, dicas, criar e entrar em comunidades específicas e participar de fóruns de discussão.|
 |:---|:---|
-| NOME DO PROJETO | Fibonacci Management System |
-| GERENTE DO PROJETO |  |
-| PRINCIPAL OBJETIVO | Auxiliar o sistema de ensino através de ferramentas síncronas e assíncronas que serão usadas por funcionários e alunos da instituição de ensino. |
-| BENEFÍCIOS ESPERADOS |* Melhor acompanhamento pedagógico;<br/>* Redução da evasão escolar;<br/>* Aumento do número de matrículas;<br/>* Redução da inadimplência escolar;<br/>* Automatização dos processos financeiross|
-| INÍCIO E TÉRMINO PREVISTOS | 14/03/2023 - 07/12/2023 |
+| NOME DO PROJETO |Sabores&Culturas|
+| GERENTE DO PROJETO |Ludmele Figuereido da Silva|
+| PRINCIPAL OBJETIVO |Desenvolver uma solução para buscas de receitas (torná-las rápidas e práticas)|
+| BENEFÍCIOS ESPERADOS |* Ter várias variedades de receitas;<br/>* Facilidade para encontrar as receitas em um único site;<br/>* Incentivar a interação das pessoas na comunidade;<br/>* Praticidade e acessibilidade;<br/>* Criar uma comunidade colaborativa e participativa|
+| INÍCIO E TÉRMINO PREVISTOS | 14/03/2025 - 07/12/2025 |
 
-[ [INÍCIO](#fibonacci-management-system) ]
+[ [INÍCIO](Sabores&Culturas) ]
 
 # INTRODUÇÃO
 
@@ -95,12 +95,11 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 |:---|:---|:---|
-|RNF-001 |Desempenho e segurança|Não é obrigatório o usuário realizar login |
-|RNF-002 |Portabilidade |Mensagem de permissão para o armazenamento dos seus dados no site |
-|RNF-002 | Navegabilidade |Não se responsabiliza  |
-|RNF-002 | Interoperabilidade |Não se responsabiliza  |
-|RNF-006 |Navegação na página (Pesquisa)| Facilidade para encontrar a receita desejada pelo usuário. |
-|RNF-007 |Acessibilidade|Voltado ao grupo de pessoas portadoras de deficiência auditiva e visual|
+|RNF-001 |Segurança| Será um site seguro. Garante a segurança dos dados dos usuários, não os disponibilizando para terceiros.|
+|RNF-002 |Portabilidade| Permite que o site seja acessado em diversas plataformas, exemplo: mobile, pc, etc.|
+|RNF-003 |Desempenho| O site será leve, PROVAVELMENTE não terá travamentos|
+|RNF-004 |Acessibilidade| Tornará o site acessivel ao grupo de pessoas portadoras de deficiência auditiva e visual|
+|RNF-005 |navagabilidade| O site não será muito complexo, então será relativamente fácil de navegar|
 
 [ [INÍCIO](#fibonacci-management-system) ]
 
