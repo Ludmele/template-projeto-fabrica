@@ -82,13 +82,23 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 :---|:---|:---|
 
-|RNF-001 |Cadastrar comunidade |Para compartilhar dicas e ideias sobre receitas culinárias. Obs.: todos os users (usuários) poderam criar a sua própria comunidade|
+|RNF-001 |Cadastrar/alterar comunidade |Para compartilhar dicas e ideias sobre receitas culinárias. Obs.: todos os users (usuários) poderam criar a sua própria comunidade|
 |RNF-002 |Cadastrar o usuário na plataforma|Tem como principal funcionalidade registrar os usuários no site para que, possam interagir na comunidade |
 |RF-003 | Cadastrar ingredientes | ******************** |
 |RF-003 |Publicar receitas | É permitido a publicação de receitas na aba comunidade no qual, os usuários terão acesso ao fazer o cadastro.|
 |RNF-004 |Cadastrar categoria| Sistema de organização que agrupa diferentes tipos de preparações culinárias com base em características comuns. |
 |RNF-005 |Avaliar e compartilhar receitas |O sistema de avaliação (comentários e classifição com estrelas) é essecial pois, permite que os usuários tenham uma base sobre o alimento (sabor). E trocar experiências culinárias com outras pessoas.|
-|RF-003 | Filtro | *************** |
+|RF-003 |Cadastrar tipo de prato | Pratos específicos em categorias específicas, ex.: doce, salgado.. |
+|RF-003 | Cadastrar datas comemorativas | Receitas de acordo com os eventos específicos do ano, ex.: natal |
+|RF-003 | Filtro | Filtrar receitas ou ingredientes especificos através da barra de pesquisa |
+|RF-003 | Buscar pratos culinários na plataforma | Pesquisar vários  |
+|RF-003 | Participar das comunidades| *************** |
+|RF-003 | Desativar e Reativar usuários da plataforma| *************** |
+|RF-003 | Cadastrar fóruns de discussão dentro da comunidade | Funcionalidade que permite a opção de criação do fórum para os usuários|
+|RF-003 |Participar dos fóruns/comunidades de discussão | Funcionalidade que permite os usuários, membros do fórum/comunidade, realizar postagens, de acordo com as suas preferências, gerar novos tópicos de discussão ou responder a outros usuários. Obs.: os usuários nãos poderão alterar conteúdo dos terceiros|
+|RF-003 |Configurar os espaços digitais | *************** |
+|RF-003 | Votações nos fóruns/comunidades | É permitido a realização de votação entre os usuários, ex.: Qual é a melhor receita? () Mousse de maracujá () Bolo de morango|
+
 
 ## Requisitos Não Funcionais
 A tabela a seguir contém a relação com os Requisitos Não Funcionais identificados, contendo identificador, nome, descrição e prioridade:
