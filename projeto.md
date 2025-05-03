@@ -80,7 +80,7 @@ A especificação dos requisitos deste documento deve seguir as recomendações 
 A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com as colunas: identificador, nome, descrição e prioridade:
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
-:---|:---|:---|
+|:---|:---|:---|
 
 |RNF-001 |Cadastrar/alterar comunidade |Para compartilhar dicas e ideias sobre receitas culinárias. Obs.: todos os users (usuários) poderam criar a sua própria comunidade|
 
