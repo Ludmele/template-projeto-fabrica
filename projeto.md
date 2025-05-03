@@ -81,16 +81,39 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 |:---|:---|:---|
+|RNF-001 |Cadastrar/alterar comunidade |Para compartilhar dicas e ideias sobre receitas culinárias. Obs.: todos os users (usuários) poderam criar a sua própria comunidade|
 
-|RNF-001 |Segurança| S999erá um site seguro. Garante a segurança dos dados dos usuários, não os disponibilizando para terceiros.|
+|RNF-002 |Cadastrar o usuário na plataforma|Tem como principal funcionalidade registrar os usuários no site para que, possam interagir na comunidade |
 
-|RNF-002 |Portabilidade| Permite que o site seja acessado em diversas plataformas, exemplo: mobile, pc, etc.|
+|RF-003 | Cadastrar ingredientes | Permitir o cadastro e associação de ingredientes às receitas, com campos como nome, unidade de medida, e quantidade padrão.|
 
-|RNF-003 |Desempenho| O site será leve, PROVAVELMENTE não terá travamentos|
+|RF-004 | Favoritar receitas |Usuários podem salvar receitas favoritas para acessar depois.|
 
-|RNF-004 |Acessibilidade| Tornará o site acessivel ao grupo de pessoas portadoras de deficiência auditiva e visual|
+|RF-005 |Publicar receitas | É permitido a publicação de receitas na aba comunidade no qual, os usuários terão acesso ao fazer o cadastro.|
 
-|RNF-005 |navagabilidade| O site não será muito complexo, então será relativamente fácil de navegar|
+|RNF-006 |Cadastrar categoria| Sistema de organização que agrupa diferentes tipos de preparações culinárias com base em características comuns. |
+
+|RNF-007 |Avaliar e compartilhar receitas |O sistema de avaliação (comentários e classifição com estrelas) é essecial pois, permite que os usuários tenham uma base sobre o alimento (sabor). E trocar experiências culinárias com outras pessoas.|
+
+|RF-008 |Cadastrar tipo de prato | Classificar receitas conforme o tipo de prato (ex.: doce, salgado, entrada, sobremesa).|
+
+|RF-009 | Cadastrar datas comemorativas | Associar receitas a datas especiais como Natal, Páscoa, etc.|
+
+|RF-010 | Filtro de busca | Buscar receitas ou ingredientes por palavra-chave, categoria, tipo de prato ou data comemorativa. |
+
+|RF-011 | Buscar pratos culinários|Pesquisar receitas cadastradas em toda a plataforma.|
+
+|RF-012 | Participar das comunidades|Os usuários cadastrados poderão se inscrever ou seguir comunidades, interagir e receber notificações sobre postagens novas.|
+
+|RF-013 | Desativar e Reativar usuários da plataforma| Os administradores poderão suspender temporariamente ou restaurar o acesso do usuário (em caso de violação das regras)|
+
+|RF-014 | Cadastrar fóruns de discussão dentro da comunidade | Funcionalidade que permite a opção de criação do fórum para os usuários|
+
+|RF-015 |Participar dos fóruns/comunidades de discussão | Funcionalidade que permite os usuários, membros do fórum/comunidade, realizar postagens, de acordo com as suas preferências, gerar novos tópicos de discussão ou responder a outros usuários. Obs.: os usuários nãos poderão alterar conteúdo dos terceiros|
+
+|RF-016 |Configurar os espaços digitais |Permitir que os Admins das comunidades personalizem seus fóruns (foto de capa, descrição, regras de conduta etc.) |
+
+|RF-017 | Votações nos fóruns/comunidades | Criar enquetes interativas nas comunidades para votar em temas como melhores receitas|
 
 
 
