@@ -83,9 +83,13 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 |:---|:---|:---|
 
 |RNF-001 |Segurança| S999erá um site seguro. Garante a segurança dos dados dos usuários, não os disponibilizando para terceiros.|
+
 |RNF-002 |Portabilidade| Permite que o site seja acessado em diversas plataformas, exemplo: mobile, pc, etc.|
+
 |RNF-003 |Desempenho| O site será leve, PROVAVELMENTE não terá travamentos|
+
 |RNF-004 |Acessibilidade| Tornará o site acessivel ao grupo de pessoas portadoras de deficiência auditiva e visual|
+
 |RNF-005 |navagabilidade| O site não será muito complexo, então será relativamente fácil de navegar|
 
 
