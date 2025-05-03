@@ -98,7 +98,7 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 |RF-015 |Participar dos fóruns/comunidades de discussão | Funcionalidade que permite os usuários, membros do fórum/comunidade, realizar postagens, de acordo com as suas preferências, gerar novos tópicos de discussão ou responder a outros usuários. Obs.: os usuários nãos poderão alterar conteúdo dos terceiros|
 |RF-016 |Configurar os espaços digitais |Permitir que os Admins das comunidades personalizem seus fóruns (foto de capa, descrição, regras de conduta etc.) |
 |RF-017 | Votações nos fóruns/comunidades | Criar enquetes interativas nas comunidades para votar em temas como melhores receitas|
-9
+
 ## Requisitos Não Funcionais
 A tabela a seguir contém a relação com os Requisitos Não Funcionais identificados, contendo identificador, nome, descrição e prioridade:
 
