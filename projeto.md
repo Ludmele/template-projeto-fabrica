@@ -37,7 +37,7 @@
 | ITEM | Um site de receitas interativo e prático. Os usuários poderão compartilhar receitas de diversas culturas, dicas, criar e entrar em comunidades específicas e participar de fóruns de discussão.|
 |:---|:---|
 | NOME DO PROJETO |Sabores&Culturas|
-| GERENTE DO PROJETO |Ludmele Figuereido da Silva|
+| GERENTE DO PROJETO |Ingrid Victória de Souza Silva|
 | PRINCIPAL OBJETIVO |Desenvolver uma solução para buscas de receitas (torná-las rápidas e práticas)|
 | BENEFÍCIOS ESPERADOS |* Ter várias variedades de receitas;<br/>* Facilidade para encontrar as receitas em um único site;<br/>* Incentivar a interação das pessoas na comunidade;<br/>* Praticidade e acessibilidade;<br/>* Criar uma comunidade colaborativa e participativa|
 | INÍCIO E TÉRMINO PREVISTOS | 14/03/2025 - 07/12/2025 |
@@ -81,23 +81,23 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 |:---|:---|:---|
-|RNF-001 |Cadastrar/alterar comunidade |Para compartilhar dicas e ideias sobre receitas culinárias. Obs.: todos os users (usuários) poderam criar a sua própria comunidade|
-|RNF-002 |Cadastrar o usuário na plataforma|Tem como principal funcionalidade registrar os usuários no site para que, possam interagir na comunidade |
+|RNF-001 |Cadastrar/alterar comunidade |Para compartilhar dicas e ideias sobre receitas culinárias. Obs.: todos os users (usuários) poderam criar a sua própria comunidade.|
+|RNF-002 |Cadastrar o usuário na plataforma|Tem como principal funcionalidade registrar os usuários no site para que, possam interagir na comunidade.|
 |RF-003 | Cadastrar ingredientes | Permitir o cadastro e associação de ingredientes às receitas, com campos como nome, unidade de medida, e quantidade padrão.|
 |RF-004 | Favoritar receitas |Usuários podem favoritar receitas para acessar depois.|
 |RF-005 |Publicar receitas | É permitido a publicação de receitas na aba comunidade no qual, os usuários terão acesso ao fazer o cadastro.|
-|RNF-006 |Cadastrar categoria| Sistema de organização que agrupa diferentes tipos de preparações culinárias com base em características comuns. |
+|RNF-006 |Cadastrar categoria| Sistema de organização que agrupa diferentes tipos de preparações culinárias com base em características comuns.|
 |RNF-007 |Avaliar e compartilhar receitas |O sistema de avaliação (comentários e classifição com estrelas) é essecial pois, permite que os usuários tenham uma base sobre o alimento (sabor). E trocar experiências culinárias com outras pessoas.|
 |RF-008 |Cadastrar tipo de prato | Classificar receitas conforme o tipo de prato (ex.: doce, salgado, entrada, sobremesa).|
 |RF-009 | Cadastrar datas comemorativas | Associar receitas a datas especiais como Natal, Páscoa, etc.|
-|RF-010 | Filtro de busca | Buscar receitas ou ingredientes por palavra-chave, categoria, tipo de prato ou data comemorativa. |
+|RF-010 | Filtro de busca | Buscar receitas ou ingredientes por palavra-chave, categoria, tipo de prato ou data comemorativa.|
 |RF-011 | Buscar pratos culinários|Pesquisar receitas cadastradas em toda a plataforma.|
 |RF-012 | Participar das comunidades|Os usuários cadastrados poderão se inscrever ou seguir comunidades, interagir e receber notificações sobre postagens novas.|
-|RF-013 | Desativar e Reativar usuários da plataforma| Os administradores poderão suspender temporariamente ou restaurar o acesso do usuário (em caso de violação das regras)|
-|RF-014 | Cadastrar enquetes de discussão dentro da comunidade | Funcionalidade que permite a opção de criação do enquete para os usuários|
-|RF-015 |Participar das enquetes| Funcionalidade que permite os usuários (membros da comunidade), realizar enquetes de acordo com as suas preferências, ao criar uma enquete, permite que os usuários cadastrados realizem votações. Obs.: os usuários não poderão alterar conteúdo dos terceiros|
-|RF-016 |Configurar os espaços digitais|Permitir que os Admins das comunidades personalizem suas enquetes (foto de capa, descrição, regras de conduta etc.) |
-|RF-017 | Votações nas enquetes/comunidades| Criar enquetes interativas nas comunidades para votar em temas, como melhores receitas|
+|RF-013 | Desativar e Reativar usuários da plataforma| Os administradores poderão suspender temporariamente ou restaurar o acesso do usuário (em caso de violação das regras).|
+|RF-014 | Cadastrar enquetes de discussão dentro da comunidade | Funcionalidade que permite a opção de criação do enquete para os usuários.|
+|RF-015 |Participar das enquetes| Funcionalidade que permite os usuários (membros da comunidade), realizar enquetes de acordo com as suas preferências, ao criar uma enquete, permite que os usuários cadastrados realizem votações. Obs.: os usuários não poderão alterar conteúdo dos terceiros.|
+|RF-016 |Configurar os espaços digitais|Permitir que os Admins das comunidades personalizem suas enquetes (foto de capa, descrição, regras de conduta etc.).|
+|RF-017 | Votações nas enquetes/comunidades| Criar enquetes interativas nas comunidades para votar em temas, como melhores receitas.|
 
 ## Requisitos Não Funcionais
 A tabela a seguir contém a relação com os Requisitos Não Funcionais identificados, contendo identificador, nome, descrição e prioridade:
