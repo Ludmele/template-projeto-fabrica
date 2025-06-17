@@ -81,22 +81,23 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 |:---|:---|:---|
-|RNF-001 |Cadastrar modo de preparo| Todas as receitas terão um modo de preparo com todo o passo a passo.|
-|RNF-002 |Cadastrar o usuário na plataforma| Tem como principal funcionalidade registrar os usuários no site para que possam postar receitas e seguir outros usuários (toda vez que o usuário seguido postar uma receita, quem o seguiu receberá uma notificação).|
-|RF-003 | Cadastrar ingredientes | Permitir o cadastro e associação de ingredientes às receitas, com campos como nome, unidade de medida, e quantidade padrão.|
-|RF-004 | Favoritar receitas |Usuários podem favoritar receitas para acessar depois.|
-|RF-005 |Publicar receitas | É permitido a publicação de receitas detalhadas, no qual os usuários terão acesso ao fazer o cadastro no site.|
-|RNF-006 |Avaliar e compartilhar receitas |O sistema de avaliação (comentários e classifição com estrelas) é essencial, pois permite que os usuários tenham uma base sobre o alimento (sabor), e trocar experiências culinárias com outras pessoas.|
-|RF-007 |Cadastrar tipo de prato | Classificar receitas conforme o tipo de prato (ex.: doce, salgado, entrada, sobremesa).|
-|RF-008 | Cadastrar datas comemorativas | Associar receitas a datas especiais como Natal, Páscoa, etc.|
-|RF-09 | Filtro de busca | Buscar receitas ou ingredientes por palavra-chave, tipo de prato ou data comemorativa.|
-|RF-010 | Buscar pratos culinários| Pesquisar receitas cadastradas em toda a plataforma.|
-|RF-011 |||
-|RF-012 | Desativar e Reativar usuários da plataforma| Os administradores poderão suspender temporariamente ou restaurar o acesso do usuário (em caso de violação das regras).|
-|RF-013 |cadastrar tempo de preparo | toda receita deverá ter seu tempo de preparo (opcional)|
-|RF-014 || |
-|RF-015 || |
-|RF-016 || |
+|RNF-001 |Cadastrar modo de preparo | Todas as receitas terão um modo de preparo de passo a passo.|
+|RNF-002 |Cadastrar o usuário na plataforma | Tem como principal funcionalidade registrar os usuários no site para que, possam postar receitas e seguir outros usuários (toda vez que o usuário seguido postar uma receita, quem o seguiu deverá receber uma notificação).|
+|RF-003 |Cadastrar ingredientes | Permitir o cadastro e associação de ingredientes às receitas, com campos como nome, unidade de medida, e quantidade padrão.|
+|RF-004 |Favoritar receitas | Usuários podem favoritar receitas para acessar depois.|
+|RF-005 |Publicar receitas | É permitido a publicação de receitas detalhadas, no qual, os usuários terão acesso ao fazer o cadastro no site.|
+|RNF-006 |Cadastrar categoria | Sistema de organização que agrupa diferentes tipos de preparações culinárias com base em características comuns.|
+|RNF-007 |Avaliar e compartilhar receitas | O sistema de avaliação (comentários e classifição com estrelas) é essencial pois, permite que os usuários tenham uma base sobre o alimento (sabor). E trocar experiências culinárias com outras pessoas.|
+|RF-008 |Cadastrar tipo de prato | Classificar receitas conforme o tipo de prato (ex.: doce, salgado, entrada, sobremesa).|
+|RF-009 |Cadastrar datas comemorativas | Associar receitas a datas especiais como Natal, Páscoa, etc.|
+|RF-010 |Filtro de busca | Buscar receitas ou ingredientes por palavra-chave, categoria, tipo de prato ou data comemorativa.|
+|RF-011 |Buscar pratos culinários| Pesquisar pratos cadastrados em toda a plataforma.|
+|RF-012 |Cadastrar perfil do Usuário| O usuário logado no site poderá personalizar seu próprio perfil (será permitido mudar a foto de perfil, mudar o nome e mudar biografia.)|
+|RF-013 |Desativar e Reativar usuários da plataforma| Os administradores poderão suspender temporariamente ou restaurar o acesso do usuário (em caso de violação das regras).|
+|RF-014 |cadastrar tempo de preparo| toda receita terá seu tempo de preparo (opcional), terá a opção de colocar se é rápido ou demorado.|
+|RF-015 |Cadastrar sugestão de receitas | A cada semana o site mandará uma sugestão de receita aleatória para o usuário.|
+|RF-016 |Cadastrar nível de dificuldade da receita| Na hora de publicar a receita, o usuário poderá colocar a dificuldade de preparo. EX: Se for uma receita simples e rápida, o nível de dificuldade será fácil.|
+|RF-017 |Cadastrar média da receita| Mudará de acordo com a quantidade de pessoa que vai comer a receita.|
 
 ## Requisitos Não Funcionais
 A tabela a seguir contém a relação com os Requisitos Não Funcionais identificados, contendo identificador, nome, descrição e prioridade:
