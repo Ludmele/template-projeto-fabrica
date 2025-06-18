@@ -97,7 +97,7 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 |RF-014 |cadastrar tempo de preparo| toda receita terá seu tempo de preparo (opcional), terá a opção de colocar se é rápido ou demorado.|
 |RF-015 |Cadastrar sugestão de receitas | A cada semana o site mandará uma sugestão de receita aleatória para o usuário.|
 |RF-016 |Cadastrar nível de dificuldade da receita| Na hora de publicar a receita, o usuário poderá colocar a dificuldade de preparo. EX: Se for uma receita simples e rápida, o nível de dificuldade será fácil.|
-|RF-017 |Cadastrar média da receita| Mudará de acordo com a quantidade de pessoa que vai comer a receita.|
+|RF-017 |Cadastrar média dos igrediente da receita| A quantidade de ingredientes mudará de acordo com a quantidade de pessoa que vai comer a receita.|
 
 ## Requisitos Não Funcionais
 A tabela a seguir contém a relação com os Requisitos Não Funcionais identificados, contendo identificador, nome, descrição e prioridade:
